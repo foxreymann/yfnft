@@ -1,22 +1,24 @@
-# _YFNFT_
+# _yfNFT_
 
 ## NFT you can't buy, you can't farm, it has to be won!
 
 ------------
 
-##  How to mint?
+##  How to win a yfNFT?
+
+Go to Mint section
 
 You see a list of Persons / NFT templates:
 
-![dkfjkdjf](./assets/persons.png)
+![](./assets/persons.png)
 
-You choose, customize and pay to premint an NFT. This costs 10 USDC.
+You choose a template and customize punchline  to premint an NFT. This costs 10 USDC.
 
 Your preminted NFT appears on dApp homepage and can be liked / voted on.
 
 And the end of a wekely round most voted NFT gets minted. The rest of perminted NFTs gets discarded.
 
-## How to play?
+## How to play and win a prize?
 
 Vote for NFT the be minted, this costs 1 USDC.
 
