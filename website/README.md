@@ -1,4 +1,4 @@
-# _yfNFT_
+![](./assets/cover.png)
 
 ## NFT you can't buy, you can't farm, it has to be won!
 
