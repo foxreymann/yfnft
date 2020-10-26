@@ -28,7 +28,11 @@ First designer pays 10 MATIC and then each next designer pay 10% more. That way 
 
 ## How to like an yfNFT.
 
-Click the Like button next to the best NFT. Your like costs 1 MATIC. If the liked NFT will be the winning one you are going to win the NFT. If the liked NFT won't be the winning one, you get your 1 MATIC back.
+Click the Like button next to the best NFT. Your like costs 1 MATIC.
+
+If the liked NFT will be the winning one you are going to win the NFT.
+
+If the liked NFT won't be the winning one, you get your 1 MATIC back.
 
 -----------
 ©️ Fox Reymann Limited 2020
