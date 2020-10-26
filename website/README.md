@@ -18,7 +18,7 @@ You choose a template, create a meme / punchline  to design an NFT.
 
 Your NFT appears on the app homepage and can be liked / voted on.
 
-And the end of a wekely round most voted NFT gets created / minted. Winner gets the NFT plus double his payment.
+And the end of a wekely round most voted NFT gets created / minted. **Winner gets the NFT plus double his payment.**
 
 The rest of designs gets discarded.
 
@@ -26,7 +26,7 @@ The rest of designs gets discarded.
 
 First designer pays 10 MATIC and then each next designer pay 10% more. That way the app won't get flooded with too many designs.
 
-## How to like an yfNFT.
+## How to like an NFT.
 
 Click the Like button next to the best NFT. Your like costs 1 MATIC.
 
