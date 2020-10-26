@@ -2,36 +2,33 @@
 
 ## NFT you can't buy, you can't farm, it has to be won!
 
+Design an NFT, fight for most likes, win an NFT and the prize
+
 ------------
 
-##  How to win a yfNFT?
+##  How to design an yfNFT?
 
-Go to Mint section
+Go to Design section
 
-You see a list of Persons / NFT templates:
+You see a list of NFT templates:
 
 ![](./assets/persons.png)
 
-You choose a template and customize punchline  to premint an NFT. This costs 10 USDC.
+You choose a template, create a meme / punchline  to design an NFT.
 
-Your preminted NFT appears on dApp homepage and can be liked / voted on.
+Your NFT appears on the app homepage and can be liked / voted on.
 
-And the end of a wekely round most voted NFT gets minted. The rest of perminted NFTs gets discarded.
+And the end of a wekely round most voted NFT gets created / minted. Winner gets the NFT plus double his payment.
 
-## How to play and win a prize?
+The rest of designs gets discarded.
 
-Vote for NFT the be minted, this costs 1 USDC.
+## How much does it cost to design an yfNFT?
 
-If you vote for NFT that ends up in Top 5 you qualify for a prize.
+First designer pays 10 MATIC and then each next designer pay 10% more. That way the app won't get flooded with too many designs.
 
-## How is prize calculated?
+## How to like an yfNFT.
 
-90% of turnover goes to prizepool. These are both minting and voting fees.
-
-At the end of the round prize pool gets propotionaly distributed to players voting for Top 5 NFTs.
-
-
-
+Click the Like button next to the best NFT. Your like costs 1 MATIC. If the liked NFT will be the winning one you are going to win the NFT. If the liked NFT won't be the winning one, you get your 1 MATIC back.
 
 -----------
 ©️ Fox Reymann Limited 2020
