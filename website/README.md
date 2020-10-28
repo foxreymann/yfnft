@@ -6,6 +6,8 @@ Design an NFT, fight for most likes, win an NFT and the prize
 
 ------------
 
+# USER GUIDE
+
 ##  How to design an yfNFT?
 
 Go to Design section
@@ -33,6 +35,16 @@ Click the Like button next to the best NFT. Your like costs 1 MATIC.
 If the liked NFT will be the winning one you are going to win the NFT.
 
 If the liked NFT won't be the winning one, you get your 1 MATIC back.
+
+# ROAD MAP
+
+25th of November 2020 - yfNFT alpha dApp working on Matic mainnet
+
+December 2020 - yfNFT token bridge Matic mainnet -> Ethereum mainnet
+
+# TECHNICAL DETAILS
+
+yfNFT token is ERC1155 compliant with image being stored on IPFS
 
 -----------
 ©️ Fox Reymann Limited 2020
