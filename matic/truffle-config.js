@@ -12,6 +12,14 @@ module.exports = {
       gasPrice: 1000000000,
       defaultEtherBalance: 9999
     },
+    mumbai: {
+      provider: new HDWalletProvider(
+        mnemonic,
+        `https://rpc-mumbai.maticvigil.com/v1/1907f9b7c80fe27df8b7e71673d67dd52eb53aba`
+      ),
+      network_id: 80001,
+      gasPrice: 1000000000
+    },
   },
 
   mocha: {
@@ -20,15 +28,14 @@ module.exports = {
 
   compilers: {
     solc: {
-      // version: "0.5.1",    // Fetch exact version from solc-bin (default: truffle's version)
-      // docker: true,        // Use "0.5.1" you've installed locally with docker (default: false)
-      // settings: {          // See the solidity docs for advice about optimization and evmVersion
-      //  optimizer: {
-      //    enabled: false,
-      //    runs: 200
-      //  },
-      //  evmVersion: "byzantium"
-      // }
-    },
-  },
+      version: "0.7.4",
+      settings: {
+        optimizer: {
+          enabled: false,
+          runs: 200
+        },
+        evmVersion: "istanbul"
+      }
+    }
+  }
 };
