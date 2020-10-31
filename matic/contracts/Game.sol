@@ -22,4 +22,6 @@ contract Game is Ownable {
 
   mapping (uint => Person) personIdToPerson;
 
+  uint noOfPersons = 0;
+
 }
